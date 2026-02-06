@@ -1,0 +1,42 @@
+# Unity generated folders
+**/Library/
+**/Temp/
+**/Obj/
+**/Builds/
+**/Logs/
+**/UserSettings/
+
+# Archive folder (old/unused files)
+**/Archive/
+
+# Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Unity meta files for non-asset files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+
+# Godot
+.godot/
+/android/
+
+# Zip files
+*.zip
